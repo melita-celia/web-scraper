@@ -1,6 +1,6 @@
 # Web Scraper
 
-Devised a tool to extract data from Social Blade's list of the top 50 most viewed YouTube channels. BeautifulSoup is used to parse the HTML of the web page and extract relevant information, such as usernames, upload counts, and total views, for each channel. The collected data is then saved to a CSV file for further analysis or storage. :desktop_computer:.
+Devised a tool to extract data from Social Blade's list of the top 50 most viewed YouTube channels. BeautifulSoup is used to parse the HTML of the web page and extract relevant information, such as usernames, upload counts, and total views, for each channel. The collected data is then saved to a CSV file for further analysis or storage :desktop_computer:.
 
 ## Features
 * Utilizes BeautifulSoup for efficient web scraping and data extraction.
