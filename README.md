@@ -20,3 +20,8 @@ cd your_folder
 ```
 pip install beautifulsoup4
 ```
+
+## Team Members
+* Melita Lewis
+* Sushree Nadiminty
+* Shaun Noronha
