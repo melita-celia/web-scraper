@@ -25,3 +25,6 @@ pip install beautifulsoup4
 * Melita Lewis
 * Sushree Nadiminty
 * Shaun Noronha
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/melita-celia/web-scraper/blob/main/LICENSE) file for details.
